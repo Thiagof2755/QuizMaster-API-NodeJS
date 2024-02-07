@@ -21,8 +21,6 @@ Esta é uma API para criar e gerenciar perguntas e respostas de um quiz.
 ![POSTMAN](./public/Captura%20de%20tela%202024-02-07%20155834.png)
 
 
-
-
 ## Autor
 
 - **Thiago Alves**
