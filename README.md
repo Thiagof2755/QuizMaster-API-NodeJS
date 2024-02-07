@@ -16,9 +16,12 @@ Esta é uma API para criar e gerenciar perguntas e respostas de um quiz.
 - **GET /Question:** Obtém um número específico de perguntas aleatórias. O número padrão de perguntas é 10, mas pode ser alterado através do parâmetro de consulta `limit`.
 - **POST /ValidateAnswer:** Valida a resposta fornecida pelo usuário para uma pergunta específica. 
 
-## Teste rotas sem necessidade da chave  
+## Teste rotas usando POSTMAN
 
-[text](https://quiz-master-api-node-js.vercel.app/ValidateAnswer)
+![POSTMAN](./public/Captura%20de%20tela%202024-02-07%20155834.png)
+
+
+
 
 ## Autor
 
