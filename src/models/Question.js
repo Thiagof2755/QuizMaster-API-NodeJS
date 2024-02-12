@@ -1,6 +1,6 @@
-import mongoose  from "mongoose";
+import mongoose from "mongoose";
 
-const questionSchema =  mongoose.Schema({
+const questionSchema =   mongoose.Schema({
     pergunta: {
         type: String,
         required: true
